@@ -4,5 +4,5 @@ drt_vehicles.xml.gz
 .project
 .settings
 .classpath
-*.xml
+berlin*.xml
 scenarios
